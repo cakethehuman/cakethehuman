@@ -1,7 +1,6 @@
-![picture](https://www.canva.com/design/DAGoYY6arwE/f5ZFofwnKkdi1r6RxFxCUQ/view?utm_content=DAGoYY6arwE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0494357a58)
-# 🙌🏻 Hello, i'm cake the programmer
-🍰 <-- this is me
-# 💫 About Me:
+
+# 💫 Hello, i'm cake the programmer
+🍰 <-- this is me<br>
 🔭 Trying to be better<br>🌱 I’m currently learning<br>⚡ My fav language to use is python
 
 

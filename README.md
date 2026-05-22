@@ -1,5 +1,7 @@
 # 💫 About Me:
-A funny little cake
+Machine learning lover
+sleepy person
+
 
 
 # 💻 Tech Stack:

@@ -1,4 +1,5 @@
 # 💫 About Me:
+me fr:
 ![Walfie Ame](https://walfiegif.wordpress.com/wp-content/uploads/2024/09/out-transparent-3.gif)
 
 # 💻 Tech Stack:

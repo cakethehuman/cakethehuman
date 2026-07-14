@@ -1,10 +1,28 @@
 # 💫 About Me:
-me fr hehe:
+```json
+Me : {
+  name   : "cake",
+  age    : 18,
+  gender : "🍰"
+}
+```
 ![Walfie Ame](https://walfiegif.wordpress.com/wp-content/uploads/2024/09/out-transparent-3.gif)
 
 
 ```python
 from sklearn.model_selection import amemodel
+
+model = amemodel()
+x = ["Code"]
+y = ["Project"]
+
+model.fit(x,y)
+
+result = model.predict("Python")
+print(f"Result : {result}")
+```
+```
+Result : Job
 ```
 
 # 💻 Tech Stack:
